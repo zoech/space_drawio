@@ -1,30 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2025-01-11T15:09:43.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" etag="yUKNyokBr0Wkh7CVUFxJ" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2025-01-11T15:16:46.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" etag="o4sQ5JUdXiU7lWwrtEo6" version="24.4.4" type="github">
   <diagram name="第 1 页" id="rvIdy7AcZS7VmFBd39Cz">
     <mxGraphModel dx="2066" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iidBQGIpe7DOxTxOtPZB-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="210" width="1290" height="370" as="geometry" />
+          <mxGeometry x="90" y="200" width="1380" height="370" as="geometry" />
         </mxCell>
         <mxCell id="iidBQGIpe7DOxTxOtPZB-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-30">
-          <mxGeometry width="1290" height="370" as="geometry" />
+          <mxGeometry width="1379.9999999999998" height="370" as="geometry" />
         </mxCell>
         <mxCell id="iidBQGIpe7DOxTxOtPZB-4" value="Social Cognition" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-30">
-          <mxGeometry x="152.88888888888889" y="75.68181818181819" width="200.66666666666669" height="33.63636363636364" as="geometry" />
+          <mxGeometry x="163.55555555555554" y="75.68181818181819" width="214.66666666666666" height="33.63636363636364" as="geometry" />
         </mxCell>
         <mxCell id="iidBQGIpe7DOxTxOtPZB-57" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Natural skills&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ farming: float&lt;br&gt;+ hunting: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ carpentry: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ stonework: float&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-30">
-          <mxGeometry x="260" y="160" width="150" height="110" as="geometry" />
+          <mxGeometry x="395.8139534883721" y="150" width="160.46511627906975" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iidBQGIpe7DOxTxOtPZB-58" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-57">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iidBQGIpe7DOxTxOtPZB-59" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;one-one communication preference&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ violence: float&lt;br&gt;+ learning: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ violenceLiking: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ learningLiking: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ outgoing: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ outgoingLiking: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ obey: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ obeyLiking: float&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-30">
-          <mxGeometry x="510" y="120" width="170" height="200" as="geometry" />
+        <mxCell id="iidBQGIpe7DOxTxOtPZB-59" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;one-one communication preference&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ violence: float&lt;br&gt;+ explain: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ violenceLiking: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ explainLiking: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ outgoingLiking: float&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ obey: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ obeyLiking: float&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-30">
+          <mxGeometry x="609.767441860465" y="115" width="181.86046511627904" height="200" as="geometry" />
         </mxCell>
         <mxCell id="iidBQGIpe7DOxTxOtPZB-60" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-59">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iidBQGIpe7DOxTxOtPZB-61" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;personal factor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ learning: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ outgoing: float&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-30">
+          <mxGeometry x="213.953488372093" y="150" width="160.46511627906975" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iidBQGIpe7DOxTxOtPZB-62" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-61">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iidBQGIpe7DOxTxOtPZB-63" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;politics preference&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ ownership: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-30">
+          <mxGeometry x="829.9962790697674" y="150" width="160.46511627906975" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iidBQGIpe7DOxTxOtPZB-64" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="iidBQGIpe7DOxTxOtPZB-63">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
